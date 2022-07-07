@@ -18,7 +18,7 @@ void iniToMid(int a[],int n){
 }
 
 void midToLast(int a[],int n){
-   sort(a+4,a+4+n);
+   sort(a+4,a+n);
    for(int i=0;i<n;++i){
       cout<<a[i]<<" ";
    }
@@ -49,8 +49,8 @@ int main(){
 
 
    // iniToMid(a,n);
-   // midToLast(a,n);
-   midToMid(a,n);
+   midToLast(a,n);
+   // midToMid(a,n);
 
    
 
