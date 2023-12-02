@@ -5,3 +5,15 @@ https://leetcode.com/problems/3sum/description/
 https://leetcode.com/problems/4sum/
 
 https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1?page=3&difficulty=Medium&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1?page=1&difficulty=Medium&sortBy=submissions
+
+https://leetcode.com/problems/next-greater-element-i/description/
+
+https://leetcode.com/problems/next-greater-element-ii/description/
+
+https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1?page=2&difficulty=Medium&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1?page=2&difficulty=Medium&sortBy=submissions
+
+https://leetcode.com/problems/median-of-two-sorted-arrays/description/
